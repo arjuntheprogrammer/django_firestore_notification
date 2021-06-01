@@ -1,0 +1,10 @@
+asgiref==3.3.4
+Django==3.2.3
+firebase-admin==5.0.0
+pytz==2021.1
+requests==2.25.1
+rsa==4.7.2
+six==1.16.0
+sqlparse==0.4.1
+uritemplate==3.0.1
+urllib3==1.26.5
